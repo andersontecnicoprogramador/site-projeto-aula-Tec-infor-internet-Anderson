@@ -235,4 +235,15 @@ footer {
     text-align: center;
     margin-top: 50px;
     text-decoration: none;
+   
+
+}
+
+footer a {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: none;
+   
 }
